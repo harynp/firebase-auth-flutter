@@ -1,3 +1,3 @@
 # auth_google_firebase
 
-A new Flutter project.
+Only for education and researching
